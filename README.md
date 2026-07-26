@@ -157,6 +157,10 @@ more information
 
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
+## Intensive Co-learning Check-In Record Table
+
+✅ = Done ⭕️ = Missed ❌ = Failed
+
 <!-- START_COMMIT_TABLE -->
 | Name | 7.25 | 7.26 | 7.27 | 7.28 | 7.29 |
 | ------------- | ---- | ---- | ---- | ---- | ---- |
